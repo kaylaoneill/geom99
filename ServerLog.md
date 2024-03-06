@@ -13,9 +13,42 @@ Time: Start: 8:15, end: 9:15 (note: time started slower when trying to take note
 - Now that it is running:
 - Click: create instance
 - Name it: Name must consist of lowercase letters (a-z), numbers, and hyphens Name must start with a lowercase letter
-- Set region and machine (for this we used: 
-- Set Boot Disk (for this we used:
+- Set region and machine (for this we used: E2 medium)
+- Set Boot Disk (for this we used:Windows - custome image given:allow HTTP and HTTPS Traffics)
+- Hit create (this can take a few minutes)
 
-- Hit create
+  ## Step 3: Setting up the rules
+  First Rule:
+  - Firewall rule
+  - Click: set up firewall rules
+  - Create firewall rulew
+  - Name it: make it something that makes sense
+  - Ingree rule, allow action on match, targets: all instances
+  - Add in your IP range (this is personal to your computer)
+  - TCP port
+  - Click create
 
-- 
+ Second rule (once logged into machine)
+  -Create a firewall rule by going to firewall in side menu and then following instructions above: allowing ports 6443 
+  - In your server:
+      - go into settings
+      - firewall
+      - inbound rules
+      - Set up rules for ports you would like
+      - Allow connection
+      - click save 
+
+## Step 4: Set up account
+- Set password and username personal to you
+- Will give you a password (copy this down)
+
+##  Step 5: Logging in
+- Copy ip address (this changes everytime)
+- In command: click Remote Deskptop
+- Type in your unique IP (if using non standard port, do IP:PORTNUMBER)
+- Connect
+- prompt for username and password
+- Put in what you set above
+- Click Ok
+
+- You will now be logged in 
