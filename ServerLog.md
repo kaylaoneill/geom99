@@ -3,7 +3,7 @@
 ## Step 1 - Gte it Running
 Time: Start: 8:15, end: 
 
--Go to: /console.cloud.google.com
--Click three lines on side
--Go to compute engine and then VM Instances 
--Enable Compute Engine API
+- Go to: /console.cloud.google.com
+- Click three lines on side
+- Go to compute engine and then VM Instances 
+- Enable Compute Engine API
