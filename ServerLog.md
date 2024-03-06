@@ -1,7 +1,7 @@
 #Start your own ArcGIS Server on GCP
 
 ## Step 1 - Get it Running
-Time: Start: 8:15, end: 8:45
+Time: Start: 8:15, end: 9:15 (note: time started slower when trying to take notes and do the steps at the same time. Next time may be quicker)
 
 - Go to: /console.cloud.google.com
 - Click three lines on side
