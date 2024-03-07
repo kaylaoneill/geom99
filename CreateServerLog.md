@@ -74,4 +74,9 @@ Time: Start: 1 hour (note: time started slower when trying to take notes and do 
 - If you see this then your Virtual Machine is no longer running 
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/003b4114-37c3-419c-9dd2-257ef29bcaf7)
 
+## View Rest Endpoint
+- You can view the Rest Endpoint for this now by typing in https://IP/arcgis/rest/services
+  - Remember this IP changes every time
+- When the VM is running and your IP is current, you will see something like this:
+- ![Capture12](https://github.com/kaylaoneill/geom99/assets/146447016/0b08a1c1-f3b5-486f-b940-c81290c11695)
 
