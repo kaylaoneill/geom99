@@ -1,7 +1,7 @@
 #Start your own ArcGIS Server on GCP
 
 ## Step 1 - Get it Running
-Time: Start: 8:15, end: 9:15 (note: time started slower when trying to take notes and do the steps at the same time. Next time may be quicker)
+Time: Start: 1 hour (note: time started slower when trying to take notes and do the steps at the same time. Next time may be quicker)
 
 - Go to: /console.cloud.google.com
 - Click three lines on side
@@ -42,14 +42,15 @@ Time: Start: 8:15, end: 9:15 (note: time started slower when trying to take note
 ## Step 4: Set up account
 - Set password and username personal to you
 - Will give you a password (copy this down)
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/65277e5f-4a18-4834-a9cd-c1b3e27f911b)
 
 ##  Step 5: Logging in
 - Copy ip address (this changes everytime)
 - In command: click Remote Deskptop
-- Type in your unique IP (if using non standard port, do IP:PORTNUMBER)
+- Type in your unique IP (if using non standard port, do IP:PORTNUMBER: Example: 10.33.55.81:444)
 - Connect
 - prompt for username and password
-- Put in what you set above
+- Put in what you set above - unique to you 
 - Click Ok
 
 - You will now be logged in 
