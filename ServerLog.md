@@ -53,4 +53,24 @@ Time: Start: 1 hour (note: time started slower when trying to take notes and do 
 - Put in what you set above - unique to you 
 - Click Ok
 
-- You will now be logged in 
+- You will now be logged in
+
+## Step 6: Shutting down
+- There are two ways to shut down - do this when not using it to ensure you aren't billed.
+  - Note that while shut down, you can't use the device or run the contents on it
+ 
+- Way 1: Turn off using a Windows Desktop Console
+- Similar to shutting down own computer
+- Go to windows setting button in bottom left corner
+- click the Power icon and then Shutdown.
+
+- Way 2: On the console.cloud.google.com website
+- Go to VM instances (instructions above on where to find this)
+- Click the ... beside the VM option
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/acf82cd4-3a85-47af-a531-477e9fee01bf)
+- Click stop.
+
+- If you see this then your Virtual Machine is no longer running 
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/003b4114-37c3-419c-9dd2-257ef29bcaf7)
+
+
