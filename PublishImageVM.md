@@ -40,7 +40,7 @@ Time: 15-30 minutes
 - Once you like the map, go to share on top menu bar in ArcGIS
 -Share as web map
 -Give it a name and select where you would like it shared too:
-- ![Shareasawebmap](https://github.com/kaylaoneill/geom99/assets/146447016/13e6527f-43d7-4837-8ed9-25efde562562)
+-![image](https://github.com/kaylaoneill/geom99/assets/146447016/2f518859-5d01-47eb-9eb0-7abe32c14b36)
 - Click Analyze
 - Get rid of any errors
 - Click Share
