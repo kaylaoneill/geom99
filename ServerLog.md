@@ -5,6 +5,7 @@ Time: Start: 8:15, end: 9:15 (note: time started slower when trying to take note
 
 - Go to: /console.cloud.google.com
 - Click three lines on side
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/7aca9287-311e-4389-af17-a6f723f9f2ca)
 - Go to compute engine and then VM Instances 
 - Enable Compute Engine API (this can take a few minutes - let it load)
 - TIP: make sure your billing is set up or this will not work
