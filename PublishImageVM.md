@@ -28,4 +28,24 @@ Time: 15-30 minutes
 - Go to Servers
 - This is what the server looks like:
 - ![Server](https://github.com/kaylaoneill/geom99/assets/146447016/7746ebd8-efa5-47af-a297-b9730bcf9660)
+- Double click on it
+  - May need to reenter username and password if you did not save it
+- You can see services published on that server. 
 
+## Step 4 - Display Map Content 
+- Add the relevant contents to a new map
+- ![SampleWorldCities](https://github.com/kaylaoneill/geom99/assets/146447016/7ee4da7b-390a-462c-ab1f-c07d19e6ab5f)
+
+## Step 5 - Display Map Content in your personal ArcGIS Account
+- Once you like the map, go to share on top menu bar in ArcGIS
+-Share as web map
+-Give it a name and select where you would like it shared too:
+- ![Shareasawebmap](https://github.com/kaylaoneill/geom99/assets/146447016/13e6527f-43d7-4837-8ed9-25efde562562)
+- Click Analyze
+- Get rid of any errors
+- Click Share
+- You will get notice if Share Successful
+- ![SharedSuccessfully](https://github.com/kaylaoneill/geom99/assets/146447016/fadb3e39-109e-444d-a73b-5e5f1a0c0ad4)
+
+- See if it shared properly in ArcGIS online:
+- ![SampleWorldMapinArcGISOnline](https://github.com/kaylaoneill/geom99/assets/146447016/f3d515e9-4f79-4171-8de8-970752ccd8f4)
