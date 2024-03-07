@@ -54,6 +54,7 @@ Time: Start: 1 hour (note: time started slower when trying to take notes and do 
 - Click Ok
 
 - You will now be logged in
+![Capture11](https://github.com/kaylaoneill/geom99/assets/146447016/069a91d0-eef8-4abe-b77d-975135c90a6a)
 
 ## Step 6: Shutting down
 - There are two ways to shut down - do this when not using it to ensure you aren't billed.
