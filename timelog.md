@@ -1,7 +1,10 @@
 # Group Project Time Log 
 
 ## Week 7-8
-
+- Deployed VM:
+- Publishing Images:
+- Publish ArCGISPro to Server:
+- Readings provided: 
 
 
 ## Week 9
