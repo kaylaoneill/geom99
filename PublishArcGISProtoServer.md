@@ -12,6 +12,7 @@ Time: 45 minutes
 - ![Serverwindow](https://github.com/kaylaoneill/geom99/assets/146447016/410aa31a-ca60-4ffd-88ea-706ec55930bf)
 
 - For this case, I used this URL: https://34.135.35.82:6443/arcgis/
+      - https://ExternalIPofVM:6443/arcgis/
 - ![addconnections](https://github.com/kaylaoneill/geom99/assets/146447016/4b366cce-866e-498c-8866-63cf956d641f)
 - Once your server URL, Username (left off screenshot) and Password are filled in, click "OK"
   - NOTE: Make sure your a user who can access this data when you log in
