@@ -1,4 +1,4 @@
-#Publish an Image in ArcGIS Pro through VM connection
+# Publish an Image in ArcGIS Pro through VM connection
 
 ## Step 1 - Turn on VM
 Time: 15-30 minutes
