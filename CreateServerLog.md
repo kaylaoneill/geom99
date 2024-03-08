@@ -1,4 +1,4 @@
-#Start your own ArcGIS Server on GCP
+# Start your own ArcGIS Server on GCP
 
 ## Step 1 - Get it Running
 Time: Start: 1 hour (note: time started slower when trying to take notes and do the steps at the same time. Next time may be quicker)
