@@ -6,14 +6,18 @@ Time: 45 minutes
 - ![1CreateMap](https://github.com/kaylaoneill/geom99/assets/146447016/06e7f1b4-a177-479f-bdd1-e7aea7486853)
 
 ## Step: Add new server connection
+- On the top bar, click the connections button
+- ![4addnewserver](https://github.com/kaylaoneill/geom99/assets/146447016/f0a63e3f-64d4-484f-a674-38931cbe4c3d)
+- From the drop down, select "new  ArcGIS Server":
+- ![Serverwindow](https://github.com/kaylaoneill/geom99/assets/146447016/410aa31a-ca60-4ffd-88ea-706ec55930bf)
 
-Use this URl: https://34.135.35.82:6443/arcgis/manager/
+- For this case, I used this URL: https://34.135.35.82:6443/arcgis/
 
 ## Step: Publish Map as a Map Server
-![13Publish](https://github.com/kaylaoneill/geom99/assets/146447016/f1dc26c4-009c-4e49-81c6-2bf4055b2c86)
--Give it a name (will automatically have name as map, can change it)
--Add any summary and tags as needed
--Make sure it says "reference registered data"
+- ![13Publish](https://github.com/kaylaoneill/geom99/assets/146447016/f1dc26c4-009c-4e49-81c6-2bf4055b2c86)
+- Give it a name (will automatically have name as map, can change it)
+- Add any summary and tags as needed
+- Make sure it says "reference registered data"
 - Double check the Server
 - Decide if you want to put it into a folder or not
 - Click Analyze
@@ -36,7 +40,7 @@ Use this URl: https://34.135.35.82:6443/arcgis/manager/
 
 ## Step: Publish
 -When it is finished publishing, you will get a complete note:
-![16PublishSuccessful](https://github.com/kaylaoneill/geom99/assets/146447016/bf99c64e-23a2-477e-9027-0379989fc0c6)
+- ![16PublishSuccessful](https://github.com/kaylaoneill/geom99/assets/146447016/bf99c64e-23a2-477e-9027-0379989fc0c6)
 -If you click the link attached to "Manage the map service" it will take you directly to where it is stored. 
 
 ## Explore Published 
@@ -45,5 +49,5 @@ Use this URl: https://34.135.35.82:6443/arcgis/manager/
 - And if you click on ArcGIS JavaScript, you can see what the map looks like
 - ![18PublishJava](https://github.com/kaylaoneill/geom99/assets/146447016/3b702359-19e9-448e-ab42-27476e13f1ac)
 
--NOTE: If you were to use this data now, remove the 6443 from the URL. 6443 should be for managing only
-![19no6443](https://github.com/kaylaoneill/geom99/assets/146447016/8ee048aa-4f6e-49a1-9eb1-580a73cd07a6)
+- NOTE: If you were to use this data now, remove the 6443 from the URL. 6443 should be for managing only
+- ![19no6443](https://github.com/kaylaoneill/geom99/assets/146447016/8ee048aa-4f6e-49a1-9eb1-580a73cd07a6)
