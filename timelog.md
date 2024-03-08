@@ -9,7 +9,8 @@
   - Looked over Problem Statement, Workforce - possible integrations and different software to look into 
 -  Lab time & Group meeting - 1 hour
     - Meet with Shawn in lab for problem statement
-    - Look over soltuions with group and decide the       
+    - Look over soltuions with group and decide the steps forward
+      - Every member to look over 1-2 solutions and report back     
 - Weekly total: 2 hour 
 
 
