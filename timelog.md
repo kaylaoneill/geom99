@@ -2,7 +2,7 @@
 
 ## Week 7-8
 - Deployed VM:
-- Publishing Images:
+- Publishing Images: https://github.com/kaylaoneill/geom99/blob/main/PublishImageVM.md
 - Publish ArCGISPro to Server:
 - Readings provided: 
 
