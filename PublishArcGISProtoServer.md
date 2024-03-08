@@ -12,6 +12,20 @@ Time: 45 minutes
 - ![Serverwindow](https://github.com/kaylaoneill/geom99/assets/146447016/410aa31a-ca60-4ffd-88ea-706ec55930bf)
 
 - For this case, I used this URL: https://34.135.35.82:6443/arcgis/
+- ![addconnections](https://github.com/kaylaoneill/geom99/assets/146447016/4b366cce-866e-498c-8866-63cf956d641f)
+- Once your server URL, Username (left off screenshot) and Password are filled in, click "OK"
+  - NOTE: Make sure your a user who can access this data when you log in
+- If you want to double check it connected, look in your catelog pane
+- ![7showsconnections](https://github.com/kaylaoneill/geom99/assets/146447016/923b195c-ae20-4099-8083-084a744033f4)
+  - For this case. we understand cettificate is invalid and click ok
+- If you did it correctly, when you right click on it, and there is a publish option
+
+## Step: Publish a map service
+- When you've right clicked on the service, click publish and clikc Map service
+- Select which map you would like to publish
+- ![9selectmap](https://github.com/kaylaoneill/geom99/assets/146447016/b2fe5c46-b8bd-4784-8748-0a74e6845de8)
+- Click "ok" when you have the right map
+
 
 ## Step: Publish Map as a Map Server
 - ![13Publish](https://github.com/kaylaoneill/geom99/assets/146447016/f1dc26c4-009c-4e49-81c6-2bf4055b2c86)
