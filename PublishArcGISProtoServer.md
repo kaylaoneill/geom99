@@ -56,7 +56,7 @@ Time: 45 minutes
 ## Step: Publish
 -When it is finished publishing, you will get a complete note:
 - ![16PublishSuccessful](https://github.com/kaylaoneill/geom99/assets/146447016/bf99c64e-23a2-477e-9027-0379989fc0c6)
--If you click the link attached to "Manage the map service" it will take you directly to where it is stored. 
+- If you click the link attached to "Manage the map service" it will take you directly to where it is stored. 
 
 ## Explore Published 
 - You can see through the REST that this was published to the server
