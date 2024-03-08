@@ -4,7 +4,10 @@
 - Deployed VM: https://github.com/kaylaoneill/geom99/blob/main/CreateServer.md
 - Publishing Images: https://github.com/kaylaoneill/geom99/blob/main/PublishImageVM.md
 - Publish ArCGISPro to Server: https://github.com/kaylaoneill/geom99/blob/main/PublishArcGISProtoServer.md
-- Readings provided: 
+- Readings provided:
+    - https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm
+    - https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
+    - https://enterprise.arcgis.com/en/server/latest/manage-data/windows/registering-your-data-with-arcgis-server-using-manager.htm
 
 
 ## Week 9
