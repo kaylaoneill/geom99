@@ -21,6 +21,14 @@ Time: 45 minutes
   - For this case. we understand cettificate is invalid and click ok
 - If you did it correctly, when you right click on it, and there is a publish option
 
+## Possible Step: Make sure the same data you are using is on the server
+- On your virutal desktop, have a copy of the same data being used in Pro
+- Can copy over the folder if needed (better to compress it first and then copy compressed folder)
+- Paste it over
+- Unzip the zip file
+- Save it in a place you know where to find it for later
+      - NOTE: this may be benefitial to have the same folder name / path as on your computer to make your life easier. Not a requirement, just make sure you know where it is. 
+
 ## Step: Publish a map service
 - When you've right clicked on the service, click publish and clikc Map service
 - Select which map you would like to publish
