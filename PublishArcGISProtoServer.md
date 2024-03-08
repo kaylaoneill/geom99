@@ -29,7 +29,7 @@ Time: 45 minutes
 
 ## Step: Publish Map as a Map Server
 - ![13Publish](https://github.com/kaylaoneill/geom99/assets/146447016/f1dc26c4-009c-4e49-81c6-2bf4055b2c86)
-- Give it a name (will automatically have name as map, can change it)
+- Give it a name (will automatically have name as whatever your map was called, can change it- this is the name it will have when published)
 - Add any summary and tags as needed
 - Make sure it says "reference registered data"
 - Double check the Server
