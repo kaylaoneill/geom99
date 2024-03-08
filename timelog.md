@@ -8,8 +8,8 @@
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
   - Looked over Problem Statement, Workforce - possible integrations and different software to look into 
 -  Lab time & Group meeting - 1 hour
-  - Meet with Shawn in lab for problem statement
-  - Look over soltuions with group      
+    - Meet with Shawn in lab for problem statement
+    - Look over soltuions with group and decide the       
 - Weekly total: 2 hour 
 
 
