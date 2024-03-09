@@ -1,7 +1,7 @@
 # Group Project Time Log 
 
 ## Week 7-8
-- Deployed VM: https://github.com/kaylaoneill/geom99/blob/main/CreateServer.md
+- Deployed VM: https://github.com/kaylaoneill/geom99/blob/main/CreateServer.md (1 hour) 
 - Publishing Images: https://github.com/kaylaoneill/geom99/blob/main/PublishImageVM.md
 - Publish ArCGISPro to Server: https://github.com/kaylaoneill/geom99/blob/main/PublishArcGISProtoServer.md
 - Readings provided:
@@ -9,7 +9,7 @@
     - https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
     - https://enterprise.arcgis.com/en/server/latest/manage-data/windows/registering-your-data-with-arcgis-server-using-manager.htm
 
-
+- Weekly total: 2 hour 
 ## Week 9
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
   - Looked over Problem Statement, Workforce - possible integrations and different software to look into 
