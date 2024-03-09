@@ -8,7 +8,7 @@
     - https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm
     - https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
     - https://enterprise.arcgis.com/en/server/latest/manage-data/windows/registering-your-data-with-arcgis-server-using-manager.htm
-
+-(Bonus: setting up time logs and creating them: around 45 minutes) 
 - Weekly total: 2.75 hours
 ## Week 9
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
