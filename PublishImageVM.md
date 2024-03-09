@@ -1,7 +1,7 @@
 # Publish an Image in ArcGIS Pro through VM connection
 
 ## Step 1 - Turn on VM
-Time: 15-30 minutes
+Time: 30 minutes
 
 - Make sure your VM is running and active.
 - Go to: /console.cloud.google.com
