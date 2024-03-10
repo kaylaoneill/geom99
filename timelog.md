@@ -19,10 +19,10 @@
     - Look over ArcGIS Soltuions with group and decide the steps forward
       - Every member to look over 1-2 solutions and report back
     - Play with Configerables for Week9 Checklist:https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
-    - Start 2:30
+    - Field Maps: 45 minutes of readings & playing with builder
 
 
-- Weekly total: 2 hours
+- Weekly total: 2.75 hours
 
 
 ## Week 10
