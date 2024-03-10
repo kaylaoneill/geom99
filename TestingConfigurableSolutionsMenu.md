@@ -26,5 +26,24 @@
 - Cons:
   - I originally set up map with location settings on but did not realized I was not liscend for that and so the map would not open at first 
 
-# ArcGIS Dashboards
+# ArcGIS Dashboards (3:30)
 - Helpful link: https://www.esri.com/arcgis-blog/products/ops-dashboard/mapping/create-first-arcgis-dashboards/
+    - Details page: https://fleming.maps.arcgis.com/home/item.html?id=e833df4ac4024d0eac2120ed9421232f
+    - Dashboard page: https://fleming.maps.arcgis.com/apps/dashboards/e833df4ac4024d0eac2120ed9421232f
+- Create Dashboard
+- Give it a title, tags and summary (Week9_Test) and create
+- "+" button to start configuring
+    -  Many optiond here
+    - I selected Map and added the FeildMap I created previously
+    - Configured Settings:![image](https://github.com/kaylaoneill/geom99/assets/146447016/79883e41-3cb4-4cd2-beb8-b3752b16688f) and click done
+- Can change the basemap
+- Added a legend by clicking "add element" on side bar
+    - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/41e864ad-d1d1-4410-9ee8-65312f477e90)
+- Have the ability to change color theme from the side bar by clicking the color pallet
+    - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/53a2647b-5239-4ba4-b3b2-3a7cb0a86f24)
+- Make sure to save as you go
+- 
+
+
+
+    
