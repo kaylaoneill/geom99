@@ -15,7 +15,8 @@
   - Can create offline map
     - And create a baseline offline map area to reduce downloading speeds of whole map
     - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/f080c803-2a49-4aed-8f75-6aac008cb783)
-    - Click the little swpare with + button on offline manage area tab to designate the spot 
+    - Click the little square with + button on offline manage area tab to designate the spot
+    - When in app: needed to download offline area to use first 
   - Go through map settings and set best settings for this map.
     - Example: photo size
     - Can set map extent as well 
