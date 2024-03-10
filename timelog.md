@@ -1,4 +1,4 @@
-# Group Project Time Log 
+# Group Project/ Web Time Log 
 
 ## Week 7-8
 - Deployed VM: https://github.com/kaylaoneill/geom99/blob/main/CreateServer.md (1 hour) 
