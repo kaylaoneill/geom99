@@ -18,7 +18,8 @@
     - Finalize V1 of problem statement and submit 
     - Look over ArcGIS Soltuions with group and decide the steps forward
       - Every member to look over 1-2 solutions and report back
-    - Play with FieldMaps: Start 1:15
+    - Play with Configerables for Week9 Checklist:https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
+    - Start 2:30
 
 
 - Weekly total: 2 hours
