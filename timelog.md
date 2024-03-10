@@ -10,6 +10,7 @@
     - https://enterprise.arcgis.com/en/server/latest/manage-data/windows/registering-your-data-with-arcgis-server-using-manager.htm
 -(Bonus: setting up time logs and creating them: around 45 minutes) 
 - Weekly total: 2.75 hours
+
 ## Week 9
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
   - Looked over Problem Statement, Workforce - possible integrations and different software to look into 
@@ -25,7 +26,7 @@
         - Dashboard: 30 minutes 
 
 
-- Weekly total: 3.15 hours
+- Weekly total: 3.25 hours
 
 
 ## Week 10
