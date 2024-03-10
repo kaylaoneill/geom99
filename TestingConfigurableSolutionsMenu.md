@@ -27,3 +27,4 @@
   - I originally set up map with location settings on but did not realized I was not liscend for that and so the map would not open at first 
 
 # ArcGIS Dashboards
+- Helpful link: https://www.esri.com/arcgis-blog/products/ops-dashboard/mapping/create-first-arcgis-dashboards/
