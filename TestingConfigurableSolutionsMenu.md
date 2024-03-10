@@ -1,7 +1,8 @@
 # Week 9 Work
 
 ## FeildMaps
-- Create and Test making a Feild map: https://fieldmaps.arcgis.app/?itemID=c4d212666d0f4c3cb7d5ece3d1e295b8&referenceContext=open&portalURL=https%3A%2F%2FFleming.maps.arcgis.com
+- Create and Test making a Feild map:
+    - Old one: did not work, messed up sharing location and lisencing. https://fieldmaps.arcgis.app/?itemID=c4d212666d0f4c3cb7d5ece3d1e295b8&referenceContext=open&portalURL=https%3A%2F%2FFleming.maps.arcgis.com
 - Create a Form
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/56e7d018-4565-4e95-a4e6-ec6ad943a9ce)
 - Added some fields:
