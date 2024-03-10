@@ -42,7 +42,9 @@
 - Have the ability to change color theme from the side bar by clicking the color pallet
     - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/53a2647b-5239-4ba4-b3b2-3a7cb0a86f24)
 - Make sure to save as you go
-- 
+- Can add and test out different elements and where you want elements to live:
+    - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/df20da77-6468-4588-a5a1-7edd553e06f7)
+
 
 
 
