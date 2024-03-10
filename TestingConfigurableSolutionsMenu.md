@@ -26,7 +26,7 @@
 - Cons:
   - I originally set up map with location settings on but did not realized I was not liscend for that and so the map would not open at first 
 
-# ArcGIS Dashboards (3:30)
+# ArcGIS Dashboards
 - Helpful link: https://www.esri.com/arcgis-blog/products/ops-dashboard/mapping/create-first-arcgis-dashboards/
     - Details page: https://fleming.maps.arcgis.com/home/item.html?id=e833df4ac4024d0eac2120ed9421232f
     - Dashboard page: https://fleming.maps.arcgis.com/apps/dashboards/e833df4ac4024d0eac2120ed9421232f
