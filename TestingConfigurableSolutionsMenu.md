@@ -19,7 +19,8 @@
     - When in app: needed to download offline area to use first 
   - Go through map settings and set best settings for this map.
     - Example: photo size
-    - Can set map extent as well 
+    - Can set map extent as well
+    - Can be duplicated
 
 - Cons:
   - I originally set up map with location settings on but did not realized I was not liscend for that and so the map would not open at first 
