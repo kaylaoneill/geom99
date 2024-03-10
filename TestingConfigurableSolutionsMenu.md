@@ -7,6 +7,7 @@
 - Create a Form
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/56e7d018-4565-4e95-a4e6-ec6ad943a9ce)
 - Added some fields:
+- Do this by dragging over the releavnt options from the side bar 
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/a96621b4-6c57-4c4a-9c38-99247ea172ba)
 
 
