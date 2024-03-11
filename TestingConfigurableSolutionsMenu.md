@@ -34,7 +34,7 @@
 - Create Dashboard
 - Give it a title, tags and summary (Week9_Test) and create
 - "+" button to start configuring
-    -  Many optiond here
+    -  Many options here
     - I selected Map and added the FeildMap I created previously
     - Configured Settings:![image](https://github.com/kaylaoneill/geom99/assets/146447016/79883e41-3cb4-4cd2-beb8-b3752b16688f) and click done
 - Can change the basemap
