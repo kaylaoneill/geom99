@@ -45,6 +45,7 @@
 - Make sure to save as you go
 - Can add and test out different elements and where you want elements to live:
     - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/df20da77-6468-4588-a5a1-7edd553e06f7)
+    - Elements can be added by the "add element" button and then pick the slot on your dashboard where you would like it. 
 
 
 
