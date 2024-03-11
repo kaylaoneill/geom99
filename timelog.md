@@ -28,7 +28,6 @@
 
 - Weekly total: 3.25 hours
 
-
 ## Week 10
 - Weekly total:
 ## Week 11
