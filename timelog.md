@@ -11,18 +11,19 @@
 -(Bonus: setting up time logs and creating them: around 45 minutes) 
 
 - Weekly total for Web: 2.75 hours
+- Total of all tasks above: 3.5
 
 ## Week 9
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
-  - Looked over Problem Statement, Workforce - possible integrations and different software to look into 
+  - Looked over Problem Statement, Workforce - possible integrations and different software to look into
+- - Meet with Shawn in lab for problem statement (not included in the time logged) - 15 minutes
 -  Lab time & Group meeting (after meeting with Shawn) - 1 hour
-    - Meet with Shawn in lab for problem statement (not included in the time logged - was around 15 minutes)
     - Finalize V1 of problem statement and submit 
     - Look over ArcGIS Soltuions with group and decide the steps forward
     - Work on different solutions as a group
       - Decided every member to look over 1-2 solutions and report back
 
-- Play with Configerables for Week9 Checklist:
+- Play with Configerables for Week9 Checklist - 1.5 hours
 - https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
   - Field Maps:
     - Readings & playing with builder-45 minutes
@@ -31,6 +32,7 @@
   - Dashboard- 30 minutes 
 
 - Weekly total for Web: 3.5 hours
+- Total of all tasks above: 3.75
 
 ## Week 10
 - Reopended the VM and played around on it, reopening the old map data and rest services and manager- 30 minutes
@@ -40,8 +42,10 @@
     - Deploying and working on it: https://github.com/kaylaoneill/geom99/blob/main/CitizenReporter.md
 - Update problem statement with edit suggestions from Shawn - 15 minutes 
 - Meet with Shawn during Lab time- 15 minutes
-- Meet with group after meeting with Shawn to chat next steps & touch base on solutions: 20 minutes
+- Meet with group after meeting with Shawn to chat next steps & touch base on solutions: 15 minutes
+
 - Weekly total for Web: 2
+- Total of all tasks above: 3.25
 
 ## Week 11
 - Weekly total:
