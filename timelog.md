@@ -33,7 +33,10 @@
     - https://github.com/kaylaoneill/geom99/blob/main/viewrestservices.md
 - Looked into the Citizen Problem Reporter (ArcGIS Solutions) for group project possibility and deployed it to my account - 1 hour
     - https://fleming.maps.arcgis.com/home/item.html?id=450a5bb9ac044ecc834f41e1dc6bfe59
+- Update problem statement with edit suggestions from Shawn - 15 minutes 
+- Meet with Shawn during Lab time- 
 - Weekly total: 1.5
+
 ## Week 11
 - Weekly total:
 ## Week 12
