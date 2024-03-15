@@ -19,7 +19,8 @@
     - Finalize V1 of problem statement and submit 
     - Look over ArcGIS Soltuions with group and decide the steps forward
       - Every member to look over 1-2 solutions and report back
-- Play with Configerables for Week9 Checklist: https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
+- Play with Configerables for Week9 Checklist:
+- https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
         - Field Maps:
             - Readings & playing with builder- 45 minutes
             - Testing the map- 15 minutes
