@@ -20,6 +20,8 @@
 - Submit a request:
   - Fill in the details of the request
   - Click "Report it"
+  - ![FillinDetails](https://github.com/kaylaoneill/geom99/assets/146447016/a5eabca8-d0e4-4235-ac01-49b24c856873)
+
 
   # Step: Now go to "Citizen Problem Manager"
 - In my content, click view on citizen problem manager
