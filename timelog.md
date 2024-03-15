@@ -30,8 +30,10 @@
 
 ## Week 10
 - Reopended the VM and played around on it, reopening the old map data and rest services and manager- 30 minutes
-    - https://github.com/kaylaoneill/geom99/blob/main/viewrestservices.md 
-- Weekly total:
+    - https://github.com/kaylaoneill/geom99/blob/main/viewrestservices.md
+
+- Looked into the 
+- Weekly total: .5
 ## Week 11
 - Weekly total:
 ## Week 12
