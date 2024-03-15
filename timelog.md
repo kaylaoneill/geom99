@@ -9,6 +9,7 @@
     - https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
     - https://enterprise.arcgis.com/en/server/latest/manage-data/windows/registering-your-data-with-arcgis-server-using-manager.htm
 -(Bonus: setting up time logs and creating them: around 45 minutes) 
+
 - Weekly total: 2.75 hours
 
 ## Week 9
@@ -18,7 +19,9 @@
     - Meet with Shawn in lab for problem statement (not included in the time logged - was around 15 minutes)
     - Finalize V1 of problem statement and submit 
     - Look over ArcGIS Soltuions with group and decide the steps forward
-      - Every member to look over 1-2 solutions and report back
+    - Work on different solutions as a group
+      - Decided every member to look over 1-2 solutions and report back
+
 - Play with Configerables for Week9 Checklist:
 - https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
         - Field Maps:
