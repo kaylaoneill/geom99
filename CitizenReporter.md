@@ -54,9 +54,8 @@
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/f8b7fe53-6017-4c3c-85f8-2cc9b09c0fd6)
 
 
-
-
   ## Overall Thoughts
   - Nice Dashboard, love the fact it showed requests by categories, would be helpful for a org that has multiple departments and such
   - Love the breakdown in the second tab of the dashboard
-  - Reporter was easy to use 
+  - Reporter was easy to use
+  - Took me a little to find how to assign tasks and mark as resolved and such - could be user error but more details would need to be provided here if used in a future project for training matetrials 
