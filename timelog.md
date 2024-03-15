@@ -14,12 +14,12 @@
 ## Week 9
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
   - Looked over Problem Statement, Workforce - possible integrations and different software to look into 
--  Lab time & Group meeting - 1 hour
+-  Lab time & Group meeting (after meeting with Shawn) - 1 hour
     - Meet with Shawn in lab for problem statement (not included in the time logged - was around 15 minutes)
     - Finalize V1 of problem statement and submit 
     - Look over ArcGIS Soltuions with group and decide the steps forward
       - Every member to look over 1-2 solutions and report back
-    - Play with Configerables for Week9 Checklist: https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
+- Play with Configerables for Week9 Checklist: https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
         - Field Maps:
             - Readings & playing with builder- 45 minutes
             - Testing the map- 15 minutes
@@ -31,7 +31,6 @@
 ## Week 10
 - Reopended the VM and played around on it, reopening the old map data and rest services and manager- 30 minutes
     - https://github.com/kaylaoneill/geom99/blob/main/viewrestservices.md
-
 - Looked into the Citizen Problem Reporter (ArcGIS Solutions) for group project possibility and deployed it to my account - 1 hour
     - https://fleming.maps.arcgis.com/home/item.html?id=450a5bb9ac044ecc834f41e1dc6bfe59
 - Weekly total: 1.5
