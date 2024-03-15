@@ -21,12 +21,12 @@
       - Every member to look over 1-2 solutions and report back
     - Play with Configerables for Week9 Checklist: https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
         - Field Maps:
-            - 45 minutes of readings & playing with builder
-            - Testing the map: 15 minutes
-        - Dashboard: 30 minutes 
+            - Readings & playing with builder- 45 minutes
+            - Testing the map- 15 minutes
+        - Dashboard- 30 minutes 
 
 
-- Weekly total: 3.25 hours
+- Weekly total: 3.5 hours
 
 ## Week 10
 - Reopended the VM and played around on it, reopening the old map data and rest services and manager- 30 minutes
