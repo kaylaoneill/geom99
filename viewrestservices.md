@@ -1,7 +1,12 @@
 # View Rest Services and Manager 
 
 ## Start VM
-
+- Go to: /console.cloud.google.com
+- Click three lines on side
+- Go to compute engine and then VM Instances
+- Click on the three dots beside your VM
+- CLick Start/Resume
+- 
 ## Rest Services
 - To view server, go to this link:
   - https://ExternalIP/arcgis/rest/services
@@ -24,4 +29,5 @@
 - For Example, the Sample World Cities:
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/05951f87-6849-43bc-b467-7033a44776ec)
 
+ ## Don't forget to Stop VM
  
