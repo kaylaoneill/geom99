@@ -32,8 +32,9 @@
 - Reopended the VM and played around on it, reopening the old map data and rest services and manager- 30 minutes
     - https://github.com/kaylaoneill/geom99/blob/main/viewrestservices.md
 
-- Looked into the 
-- Weekly total: .5
+- Looked into the Citizen Problem Reporter (ArcGIS Solutions) for group project possibility and deployed it to my account - 1 hour
+    - https://fleming.maps.arcgis.com/home/item.html?id=450a5bb9ac044ecc834f41e1dc6bfe59
+- Weekly total: 1.5
 ## Week 11
 - Weekly total:
 ## Week 12
