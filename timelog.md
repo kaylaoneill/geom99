@@ -10,7 +10,7 @@
     - https://enterprise.arcgis.com/en/server/latest/manage-data/windows/registering-your-data-with-arcgis-server-using-manager.htm
 -(Bonus: setting up time logs and creating them: around 45 minutes) 
 
-- Weekly total: 2.75 hours
+- Weekly total for Web: 2.75 hours
 
 ## Week 9
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
@@ -25,21 +25,22 @@
 - Play with Configerables for Week9 Checklist:
 - https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
         - Field Maps:
-            - Readings & playing with builder-45 minutes
-            - Testing the map-15 minutes
-        - Dashboard- 30 minutes 
+          - Readings & playing with builder-45 minutes
+          - Testing the map-15 minutes
+          - Dashboard- 30 minutes 
 
-- Weekly total: 3.5 hours
+- Weekly total for Web: 3.5 hours
 
 ## Week 10
 - Reopended the VM and played around on it, reopening the old map data and rest services and manager- 30 minutes
     - https://github.com/kaylaoneill/geom99/blob/main/viewrestservices.md
 - Looked into the Citizen Problem Reporter (ArcGIS Solutions) for group project possibility and deployed it to my account - 1 hour (looked into the video provided, documentation, and different aspects)
-    - Soltuion: https://fleming.maps.arcgis.com/home/item.htmlid=450a5bb9ac044ecc834f41e1dc6bfe59
+    - Soltuion in my account: https://fleming.maps.arcgis.com/home/item.htmlid=450a5bb9ac044ecc834f41e1dc6bfe59
     - Deploying and working on it: 
 - Update problem statement with edit suggestions from Shawn - 15 minutes 
-- Meet with Shawn during Lab time- 
-- Weekly total: 1.5
+- Meet with Shawn during Lab time- 15 minutes
+- Meet with group after meeting with Shawn to chat next steps & touch base on solutions: 20 minutes
+- Weekly total for Web: 1.5
 
 ## Week 11
 - Weekly total:
