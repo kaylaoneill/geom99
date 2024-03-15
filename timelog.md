@@ -35,13 +35,13 @@
 ## Week 10
 - Reopended the VM and played around on it, reopening the old map data and rest services and manager- 30 minutes
     - https://github.com/kaylaoneill/geom99/blob/main/viewrestservices.md
-- Looked into the Citizen Problem Reporter (ArcGIS Solutions) for group project possibility and deployed it to my account - 1 hour (looked into the video provided, documentation, and different aspects)
+- Looked into the Citizen Problem Reporter (ArcGIS Solutions) for group project possibility and deployed it to my account - 1.5 hours (looked into the video provided, documentation, and different aspects)
     - Soltuion in my account: https://fleming.maps.arcgis.com/home/item.htmlid=450a5bb9ac044ecc834f41e1dc6bfe59
     - Deploying and working on it: https://github.com/kaylaoneill/geom99/blob/main/CitizenReporter.md
 - Update problem statement with edit suggestions from Shawn - 15 minutes 
 - Meet with Shawn during Lab time- 15 minutes
 - Meet with group after meeting with Shawn to chat next steps & touch base on solutions: 20 minutes
-- Weekly total for Web: 1.5
+- Weekly total for Web: 2
 
 ## Week 11
 - Weekly total:
