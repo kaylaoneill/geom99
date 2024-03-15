@@ -13,7 +13,7 @@
 - Once logged in, you can see everything on your server:
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/19d44dc3-af53-4ec6-9cf6-d4ffc42ef81d)
 
-- If you were to click on the photo view icon, you will see the content of that map
+- If you were to click on the photo view icon (![image](https://github.com/kaylaoneill/geom99/assets/146447016/e814e4b0-ea3b-4fa7-a825-89a193328317)), you will see the content of that map
 - For Example, the Sample World Cities:
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/05951f87-6849-43bc-b467-7033a44776ec)
 
