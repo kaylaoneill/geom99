@@ -1,6 +1,8 @@
 # View Rest Services and Manager 
 
-# Rest Services
+## Start VM
+
+## Rest Services
 - To view server, go to this link:
   - https://ExternalIP/arcgis/rest/services
     - Example: https://34.29.106.249/arcgis/rest/services
