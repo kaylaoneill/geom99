@@ -23,9 +23,19 @@
   - ![FillinDetails](https://github.com/kaylaoneill/geom99/assets/146447016/a5eabca8-d0e4-4235-ac01-49b24c856873)
 
 
-  # Step: Now go to "Citizen Problem Manager"
+  ## Step: Now go to "Citizen Problem Manager"
 - In my content, click view on citizen problem manager
 - See the request you just made in the manager:
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/10787c34-c5df-429e-a836-242ac8cfc680)
-- 
-  
+
+## Step: View Dashboard
+- From my content, clikc "Citizen Problem Dashboard"
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/f4af0258-3119-46cb-a519-1713f3592c98)
+- See the open request under "Landuse"
+- Can click on "requests" on bottom tab to see more details:
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/3270058e-22cd-4a7c-bf2e-1f4993249686)
+
+  ## Overall Thoughts
+  - Nice Dashboard, love the fact it showed requests by categories, would be helpful for a org that has multiple departments and such
+  - Love the breakdown in the second tab of the dashboard
+  - Reporter was easy to use 
