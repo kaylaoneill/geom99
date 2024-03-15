@@ -35,6 +35,27 @@
 - Can click on "requests" on bottom tab to see more details:
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/3270058e-22cd-4a7c-bf2e-1f4993249686)
 
+## Assign Tasks to people
+- NOTE: this did take me a bit to find how to do this. Would need more clear instudtions for future use if using in solution for future projects
+- Go to " Citizen Request Center" - the Hub Site Apllication
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/93e54f86-9ca9-4e46-8543-5f450b694590)
+- Click "Manage requests"
+- Click on the request
+- Scroll down
+- Click the pencil button beside the request ![image](https://github.com/kaylaoneill/geom99/assets/146447016/1aaba0ff-1ba1-437a-aa35-c38fffcff0d9)
+- Fill in the details:
+  - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/7c8cb7bc-bd81-411c-b2d1-a30905df218c)
+  - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/4b571f1b-4495-45ef-81a1-510efb6c5c8d)
+- Click Save
+- Now resolved
+
+## Go Back to "Citizen Problem Manager"
+- To see new edits here (Ex: Resolved on):
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/f8b7fe53-6017-4c3c-85f8-2cc9b09c0fd6)
+
+
+
+
   ## Overall Thoughts
   - Nice Dashboard, love the fact it showed requests by categories, would be helpful for a org that has multiple departments and such
   - Love the breakdown in the second tab of the dashboard
