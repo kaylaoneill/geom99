@@ -15,7 +15,7 @@
 - Team meeting- planning and reviewing different apps and solutions- 1 hour
   - Looked over Problem Statement, Workforce - possible integrations and different software to look into 
 -  Lab time & Group meeting - 1 hour
-    - Meet with Shawn in lab for problem statement
+    - Meet with Shawn in lab for problem statement (not included in the time logged - was around 15 minutes)
     - Finalize V1 of problem statement and submit 
     - Look over ArcGIS Soltuions with group and decide the steps forward
       - Every member to look over 1-2 solutions and report back
