@@ -1,5 +1,5 @@
 # Survey 123
-- First: 25 minutes
+- First: 30 minutes
 - 
 ## Go To Survey 123
 - Go to ArcGIS Online
