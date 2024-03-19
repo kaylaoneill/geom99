@@ -38,6 +38,20 @@
 - Drag and drop the question where you would like it in the survey
 - For this example, I made multiple select question:
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/42e0c2c2-cab6-48c2-9ecf-877c8f47c608)
+
+## Save, Preview, Publish
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/276f53dd-96ac-481d-982a-c915a23d4373)
+- Make sure you are saving often
+- Preview: allows you to view the survey as if it were published but without publishing it first. To see what other edits need to be done. You can see how it will look in desktop and mobile view 
+- Publish: This publishes your survey to give you sharing links for the public to use 
+
+## Top Menu Bar
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/40c48dcf-ea53-49ef-85f4-4801392d6b19)
+- Add: adds new questions to the survey
+- Edit: Edit the requirements of a specific questions
+- Appearance: This changes the theme of the entire survey
+- Options: Allows you to direct the survey what to do after it has been submitted
+
+## Appearance
 - 
-
-
+## Options
