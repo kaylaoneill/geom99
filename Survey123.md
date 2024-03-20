@@ -1,8 +1,9 @@
 # Survey 123
-- First: 30 minutes
+- First: 45 minutes
 - 
 ## Go To Survey 123
-- Go to ArcGIS Online
+- Go to ArcGIS Online (https://www.arcgis.com/index.html)
+- Log in
 - Click the dotted menu in top right corner ![image](https://github.com/kaylaoneill/geom99/assets/146447016/09fbdaf5-7f05-4725-ba5b-2ce8f1e55b37)
 - Click Survey 123
 
@@ -53,5 +54,15 @@
 - Options: Allows you to direct the survey what to do after it has been submitted
 
 ## Appearance
-- 
+- Can update the appearance here.
+- Can change background to a color or a picture
+- Can change heading color as well (for this we picked a red)
+- In this case, I changed the background to a blue color
+- Can also update the text color and opacity (set opacity to 80% here)
 ## Options
+- This is what changes the thank you screen
+- You can update the language on the message (did not here)
+- You can also update the action after submission:
+  - For this we changed the survey to reload after 10 seconds (so people can enter a new entry):
+  - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/4e7f792e-07ac-4e5d-8530-39d4d0f6f2b5)
+  - 
