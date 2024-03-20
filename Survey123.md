@@ -1,5 +1,5 @@
 # Survey 123
-- First: 45 minutes
+- First: 1h
 - 
 ## Go To Survey 123
 - Go to ArcGIS Online (https://www.arcgis.com/index.html)
@@ -70,4 +70,24 @@
 - When you are ready and the survey is how you want it. Click publish
 - Before finalizing the publish, you can moddify the schema:
   - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/0b04062a-1bb6-49b3-b185-dd2ce76c1a0a)
--For this: I updated all defult "Name" to something that made more sense to the survey 
+-For this: I updated all defult "Name" to something that made more sense to the survey.
+  - Ex: Feild7 is not incident_type
+  - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/b965a4ea-4b46-4abb-b8d5-5d9d15668a04)
+- When done, click "Publish"
+- Let it publish (may take a few minutes)
+
+## After Publishing
+- To get the link to share the survey, click the ![image](https://github.com/kaylaoneill/geom99/assets/146447016/9d0591e6-1e65-479a-8fd7-7e00c47fcec9) in the top bar
+- Survey link and QR code will be there
+
+- Collaborate:
+- Main page: Share Survey
+  - You can start by changing where the survey gets shared, in a browser, the Survey123 app or ask the user 
+  - You change who submits to the survey (everyone or select people)
+  - Allow multiple submissions: "Allow multiple"
+  - What submitters can do: here we want "only add"
+- Share Results
+  -Here you update who can see the results of your survey
+  - This is good if you have a team you want to see the results
+  - You can allow them to see all data or only their own
+  - You can also also them to only view data or view and export
