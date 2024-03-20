@@ -68,4 +68,6 @@
 
 ## Publish
 - When you are ready and the survey is how you want it. Click publish
-- 
+- Before finalizing the publish, you can moddify the schema:
+  - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/0b04062a-1bb6-49b3-b185-dd2ce76c1a0a)
+-For this: I updated all defult "Name" to something that made more sense to the survey 
