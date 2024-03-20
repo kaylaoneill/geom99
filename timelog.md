@@ -48,7 +48,11 @@
 - Total of all tasks above: 3.25
 
 ## Week 11
-- Weekly total:
+- Created a Survey123 Survey that could be useful for the Web Project: 1 h
+
+- Meet with Shawn during Lab time- 15 minutes
+- Weekly total for Web: 1
+- Total of all tasks above: 1
 ## Week 12
 - Weekly total:
 - 
