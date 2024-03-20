@@ -64,5 +64,8 @@
 - You can update the language on the message (did not here)
 - You can also update the action after submission:
   - For this we changed the survey to reload after 10 seconds (so people can enter a new entry):
-  - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/4e7f792e-07ac-4e5d-8530-39d4d0f6f2b5)
-  - 
+  -![image](https://github.com/kaylaoneill/geom99/assets/146447016/61adeaba-7b11-4ffd-8727-ce2c0353a3bb)
+
+## Publish
+- When you are ready and the survey is how you want it. Click publish
+- 
