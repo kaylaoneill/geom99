@@ -54,7 +54,7 @@
     - Working with data and testing features with data: .5
       -  Data entering: .25
     - Adding to dashboard: .5
-
+- Survey123 Reports
 - Meet with Shawn during Lab time- 15 minutes
 
 - Weekly total for Web: 2
