@@ -51,7 +51,7 @@
 - Created a Survey123 Survey that could be useful for the Web Project: Build: 1h Data: 8:30
     - https://github.com/kaylaoneill/geom99/blob/main/Survey123.md
     - Did this in two gos: Building and exploring: 1 hour
-    - Data entering: 10 minutes
+    - Data entering: 15 minutes
     - Working with data and testing features with data:
 
 - Meet with Shawn during Lab time- 15 minutes
