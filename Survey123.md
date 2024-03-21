@@ -112,6 +112,8 @@
   - You will also see you can display different questions different ways. Click the Pie chart button or the bar chart button:
   - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/ca4267f6-48c3-4765-b8e5-3fc8845d0dea) ![image](https://github.com/kaylaoneill/geom99/assets/146447016/5ff3ab68-dbcc-4d46-ac94-a6375223aa17)
 
+- Word cloud is an interesting feature to sum up the enteries.
+  - You do need at least 20 enteries for this 
 
 # Things I did not like/ would change for in practice:
 - For the select category, I did "Unsure" as an other option. Did not like this as when clicked, it gave a box to type in. Should have made other a regular option
