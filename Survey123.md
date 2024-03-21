@@ -1,7 +1,5 @@
 # Survey 123
 # Build
-- First: 1h
-- 
 ## Go To Survey 123
 - Go to ArcGIS Online (https://www.arcgis.com/index.html)
 - Log in
@@ -105,6 +103,11 @@
 - If one is selected, it shows where you are on the map 
 - If you click on the details of specific entry, it will show you the details of that entry:
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/b6adf93e-bac6-45e0-9113-43836608a7bc)
+
+## Analyze
+- This feature is helpful as it gives you statistics on the enteries.
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/cf357d54-0325-4dc3-b6c8-d5350ec4f9ff)
+- Can take a look at the breakdown of each question and the statistics for each
 
 # Things I did not like/ would change for in practice:
 - For the select category, I did "Unsure" as an other option. Did not like this as when clicked, it gave a box to type in. Should have made other a regular option
