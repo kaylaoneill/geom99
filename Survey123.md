@@ -104,3 +104,4 @@
 # Things I did not like/ would change for in practice:
 - For the select category, I did "Unsure" as an other option. Did not like this as when clicked, it gave a box to type in. Should have made other a regular option
 - I would add a time category, not just a date. Time may be important for collection
+- The "email me a copy: Q did not work
