@@ -124,4 +124,35 @@
 
 # Add to bashboard: (to be moved to other doccument after marking is done)
 - As an add on to what we did in a previous week, we will be adding this survey to our dashboard.
-- 
+- Navigate back to your dashboard
+- For this, we went back into week 9 test
+- Don't forget to click the pencil to edit ** otherwise you just view it
+
+## Add a splash screen
+- In settings, click" add splash screen"
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/0a8c2f34-1291-429e-8384-f3794cd9e496)
+- Add a welcome message
+- Put in the settings you want and add the message you would like and the customizations:
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/d80d2906-1ed7-4e3f-aeec-9735cc83c3d2)
+
+## Stacking Data
+- To stack data, create a second page, select add element and then click ontop of something that already exsists to add a second item
+- Now at the botttom, you will see the different options of the stacked items
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/b3e7f851-9f11-4593-bd84-ccc9e16889f6)
+- When adding a table from this data, under table type, do not do grouped features if you want specific. Grouped features only gives you the option of a count and not individual answers.
+- Add the fields you would like displayed.
+- You can change the display settings as well that including formatting
+- Don't forget to save
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/c27ae614-8b6e-4fd5-a4a8-7c1e413797f1)
+
+## Viewing it now:
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/bf60e881-77c0-4447-9274-b823cf495efd)
+- You can see the different tab options at the bottom for your newly stacked fields:
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/0f56cab1-1c11-4456-92e4-15511dab9ae9)
+- And you can click through the new tabs:
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/c5164129-da91-4514-accb-7ad89cd46ffd)
+
+
+
+
+
