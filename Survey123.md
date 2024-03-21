@@ -1,4 +1,5 @@
 # Survey 123
+# Build
 - First: 1h
 - 
 ## Go To Survey 123
@@ -91,3 +92,6 @@
   - This is good if you have a team you want to see the results
   - You can allow them to see all data or only their own
   - You can also also them to only view data or view and export
+ 
+# Data 
+-After this has been published and used, lets look at the data 
