@@ -98,8 +98,13 @@
 - This is what the survey looks like on a mobile phone:
 - 
 # Data 
--After this has been published and used, lets look at the data 
-
+- After this has been published and used, lets look at the data 
+- Click the "Data" Tab at the top
+- It will show you all data entries so far:
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/ce8b22e0-2c73-4b25-ade3-1f9382971be6)
+- If one is selected, it shows where you are on the map 
+- If you click on the details of specific entry, it will show you the details of that entry:
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/b6adf93e-bac6-45e0-9113-43836608a7bc)
 
 # Things I did not like/ would change for in practice:
 - For the select category, I did "Unsure" as an other option. Did not like this as when clicked, it gave a box to type in. Should have made other a regular option
