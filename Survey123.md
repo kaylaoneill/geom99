@@ -108,6 +108,10 @@
 - This feature is helpful as it gives you statistics on the enteries.
 - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/cf357d54-0325-4dc3-b6c8-d5350ec4f9ff)
 - Can take a look at the breakdown of each question and the statistics for each
+  - You can do this by either clicking on the question under the Navigation tab or by scrolling on the main page
+  - You will also see you can display different questions different ways. Click the Pie chart button or the bar chart button:
+  - ![image](https://github.com/kaylaoneill/geom99/assets/146447016/ca4267f6-48c3-4765-b8e5-3fc8845d0dea) ![image](https://github.com/kaylaoneill/geom99/assets/146447016/5ff3ab68-dbcc-4d46-ac94-a6375223aa17)
+
 
 # Things I did not like/ would change for in practice:
 - For the select category, I did "Unsure" as an other option. Did not like this as when clicked, it gave a box to type in. Should have made other a regular option
