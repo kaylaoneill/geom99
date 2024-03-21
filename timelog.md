@@ -48,7 +48,7 @@
 - Total of all tasks above: 3.25
 
 ## Week 11
-- Created a Survey123 Survey that could be useful for the Web Project: Build: 1h Data: 
+- Created a Survey123 Survey that could be useful for the Web Project: Build: 1h Data: 8:30
     - https://github.com/kaylaoneill/geom99/blob/main/Survey123.md
 
 - Meet with Shawn during Lab time- 15 minutes
