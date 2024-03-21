@@ -54,11 +54,12 @@
     - Working with data and testing features with data: .5
       -  Data entering: .25
     - Adding to dashboard: .5
-- Survey123 Reports
+- Survey123 Reports: .25
+    - https://github.com/kaylaoneill/geom99/blob/main/Survey123Reports.md
 - Meet with Shawn during Lab time- 15 minutes
 
-- Weekly total for Web: 2
-- Total of all tasks above: 2.5
+- Weekly total for Web: 2.25
+- Total of all tasks above: 2.75
 
 ## Week 12
 - Weekly total:
