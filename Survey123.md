@@ -80,6 +80,8 @@
 ## After Publishing
 - To get the link to share the survey, click the ![image](https://github.com/kaylaoneill/geom99/assets/146447016/9d0591e6-1e65-479a-8fd7-7e00c47fcec9) in the top bar
 - Survey link and QR code will be there
+- NOTE: if you keep the survey on private, only you can use it
+- Make sure you set the right sharing options for what you need: public- all, specific grounp in the org or the whole org
 
 - Collaborate:
 - Main page: Share Survey
@@ -92,6 +94,12 @@
   - This is good if you have a team you want to see the results
   - You can allow them to see all data or only their own
   - You can also also them to only view data or view and export
- 
+## Doing the survey
+- This is what the survey looks like on a mobile phone:
+- 
 # Data 
 -After this has been published and used, lets look at the data 
+
+
+# Things I did not like:
+- For the select category, I did "Unsure" as an other option. Did not like this as when clicked, it gave a box to type in. Should have made other a regular option
