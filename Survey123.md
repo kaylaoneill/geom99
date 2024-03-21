@@ -114,6 +114,8 @@
 
 - Word cloud is an interesting feature to sum up the enteries.
   - You do need at least 20 enteries for this 
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/73958dd4-d9ba-43d2-ac52-81244c93b3fc)
+- Maybe not the best for statistics but a good visual representation of the enteries for presentations.
 
 # Things I did not like/ would change for in practice:
 - For the select category, I did "Unsure" as an other option. Did not like this as when clicked, it gave a box to type in. Should have made other a regular option
