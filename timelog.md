@@ -57,7 +57,8 @@
         - Adding to dashboard: .5
 - Survey123 Reports- .25
     - https://github.com/kaylaoneill/geom99/blob/main/Survey123Reports.md
--Workforce- 1
+
+- Workforce- 1
     -https://github.com/kaylaoneill/geom99/blob/main/Workforce.md
 - Meet with Shawn during Lab time- 15 minutes
 
