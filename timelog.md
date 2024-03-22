@@ -57,12 +57,12 @@
         - Adding to dashboard: .5
 - Survey123 Reports- .25
     - https://github.com/kaylaoneill/geom99/blob/main/Survey123Reports.md
--Workforce- 
+-Workforce- .75
     -https://github.com/kaylaoneill/geom99/blob/main/Workforce.md
 - Meet with Shawn during Lab time- 15 minutes
 
-- Weekly total for Web: 2.5
-- Total of all tasks above: 2.75
+- Weekly total for Web: 3.25
+- Total of all tasks above: 3.50
 
 ## Week 12
 - Weekly total:
