@@ -40,7 +40,7 @@
 - You can have autosync on or do it automatically
 - This sends and recieves different assignments from the main dashboard to you and back
 
-## Back to dashboard
+## Back to workforce dashboard
 - Now the dashboard will be updated to show the new status of the task:
 - <img width="443" alt="image" src="https://github.com/kaylaoneill/geom99/assets/146447016/26b81601-1e7e-4372-bdb7-3988e322541a">
 - Green means complete
@@ -49,7 +49,20 @@
 - At the very bottom of the dashboard, there is a tab that allows you to flick between users and assignments
 - <img width="449" alt="image" src="https://github.com/kaylaoneill/geom99/assets/146447016/df254300-884b-42e4-809e-2504c40dca17">
 - Under workers, you can see all your workers and how many open tasks they have
-- 
+  
+
+## Add to ArcGIS Dashboard
+- Lets take our previously made dashboard and add this in
+- NOTE: add it as a table.
+  - I tried a list and it was not the right choice - do not redo this step, it does not show the data right
+- In the table, select which columns you would like under the "table type" and the "features"
+- These were the settings I chose:
+- <img width="921" alt="image" src="https://github.com/kaylaoneill/geom99/assets/146447016/a33f4cb7-929c-4532-8a56-99f7606d660e">
+- you can also play with other settings in terms of colors and heddings- I decided here to leave as is
+- Clicked this little pencil to rename the table so I knew where it came from
+- <img width="113" alt="image" src="https://github.com/kaylaoneill/geom99/assets/146447016/290917fc-c59e-4373-a017-fac718b73785">
+- <img width="950" alt="Screenshot 2024-03-21 211055" src="https://github.com/kaylaoneill/geom99/assets/146447016/84b29db6-592c-49fe-ba02-f13c9505c3eb">
+
 
 
 ## Notes
@@ -58,3 +71,4 @@
 - Easy to set up
 - Can see all takss in one place and change how they are sorted. So you can change it to do all tasks in a zone you are in 
 - Under the workers tab, you get  quick overview on how many tasks workers have assigned and who may need more support
+- When adding to a dashboard with other projects created, it gives a good oversight 
