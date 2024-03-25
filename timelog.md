@@ -59,7 +59,7 @@
     - https://github.com/kaylaoneill/geom99/blob/main/Survey123Reports.md
 
 - Workforce- 1
-    -https://github.com/kaylaoneill/geom99/blob/main/Workforce.md
+    - https://github.com/kaylaoneill/geom99/blob/main/Workforce.md
 - Meet with Shawn during Lab time- 15 minutes
 
 - Weekly total for Web: 3.5
