@@ -55,7 +55,7 @@
         - Working with data and testing features with data: .5
         -  Data entering: .25
         - Adding to dashboard: .5
-- Survey123 Reports- .25
+- Survey123 Reports-.25
     - https://github.com/kaylaoneill/geom99/blob/main/Survey123Reports.md
 
 - Workforce- 1
