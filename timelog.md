@@ -66,7 +66,10 @@
 - Total of all tasks above: 3.75
 
 ## Week 12
-- Weekly total:
+- Worked with MapCache - GeoPackage - 1 hour
+
+
+- Weekly total: 1
 - 
 ## Week 13
 - Weekly total:
