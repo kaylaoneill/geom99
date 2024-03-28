@@ -23,8 +23,8 @@
     - Work on different solutions as a group
       - Decided every member to look over 1-2 solutions and report back
 
-- Play with Configerables for Week9 Checklist - 1.5 hours
-- https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md
+- Play with Configurable for Week9 Checklist - 1.5 hours
+- [https://github.com/kaylaoneill/geom99/blob/main/TestingConfigurableSolutionsMenu.md](https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/TestingConfigurableSolutionsMenu.md)
   - Field Maps:
     - Readings & playing with builder-45 minutes
     - NOTE: had to create two maps as I messed up the settings in thr first one (noted in document) as so it did not work. Document outlines the proper instuctions 
