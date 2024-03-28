@@ -66,13 +66,14 @@
 - Total of all tasks above: 3.75
 
 ## Week 12
-- Worked with MapCache - GeoPackage - 1 hour
+- Worked with MapCache - GeoPackage - 1.5 hour
     - https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/mapcache.md
+    - Did not like this 
 - Started a new survey to use as a prototype for this project - .5 hours
     - https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/Survey123Prototype.md
 
 
-- Weekly total: 1.5
+- Weekly total: 2
 
 ## Week 13
 - Weekly total:
