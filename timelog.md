@@ -74,6 +74,11 @@
 - Completed ArcGIS Notebook training through Esri - 1 h
     - https://www.esri.com/training/catalog/5fd024722831fd696d26d53b/arcgis-notebooks-basics/
 
+- Meet with group to plan Web future weeks: March 28.  
+
+- My future task: look into the solution and create one for Beta testing:
+    - Parks and Ground Management Solution
+
 - Weekly total: 3
 
 ## Week 13
