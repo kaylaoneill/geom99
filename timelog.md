@@ -74,7 +74,7 @@
 - Completed ArcGIS Notebook training through Esri - 1 h
     - https://www.esri.com/training/catalog/5fd024722831fd696d26d53b/arcgis-notebooks-basics/
 
-- Weekly total: 2
+- Weekly total: 3
 
 ## Week 13
 - Weekly total:
