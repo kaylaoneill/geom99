@@ -68,10 +68,11 @@
 ## Week 12
 - Worked with MapCache - GeoPackage - 1.5 hour
     - https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/mapcache.md
-    - Did not like this 
+    - I did not like this, will probably not use in future  
 - Started a new survey to use as a prototype for this project - .5 hours
     - https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/Survey123Prototype.md
-
+- Completed ArcGIS Notebook training through Esri - 1 h
+    - https://www.esri.com/training/catalog/5fd024722831fd696d26d53b/arcgis-notebooks-basics/
 
 - Weekly total: 2
 
