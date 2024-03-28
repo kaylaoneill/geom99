@@ -27,6 +27,12 @@
 - Try 3:
   - Instead of searching a whole category, I did tourism="museum" on search
   - Still did not work.
+
+- Try 4: - Also did not work
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/04335cc5-4816-44a6-80a8-38bc100b50b4)
+- ![image](https://github.com/kaylaoneill/geom99/assets/146447016/9c0a0b64-afc6-43fb-aaae-95877b602756)
+-![image](https://github.com/kaylaoneill/geom99/assets/146447016/74f5f63c-a4a1-4674-ad2e-f0da2ad400ce)
+
   
 - Add feature layer
   - Name it
@@ -34,4 +40,4 @@
   - Order layers (right now we only have 1)
   - Did not set a bounding box filter this time
   - Click add
-  - 
+
