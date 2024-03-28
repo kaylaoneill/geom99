@@ -14,3 +14,6 @@
   - Added a time
   - Took away Unsure as an "other"
   - Updated to ask user when survey is entered to use GPS
+
+## Questions I still have / to ask the ground
+- Do we do time and date as separate? What is the benefit of two questions vs it together in one
