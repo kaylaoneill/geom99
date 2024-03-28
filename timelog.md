@@ -2,7 +2,7 @@
 
 ## Week 7-8
 - Deployed VM: [https://github.com/kaylaoneill/geom99/blob/main/CreateServer.md](https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/CreateServer.md) (1 hour) 
-- Publishing Images: https://github.com/kaylaoneill/geom99/blob/main/PublishImageVM.md (30 minutes) 
+- Publishing Images: [https://github.com/kaylaoneill/geom99/blob/main/PublishImageVM.md](https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/PublishImageVM.md) (30 minutes) 
 - Publish ArCGISPro to Server: https://github.com/kaylaoneill/geom99/blob/main/PublishArcGISProtoServer.md (45 minutes)
 - Readings provided: (15-30 minutes)
     - https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm
