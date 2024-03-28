@@ -8,3 +8,9 @@
 - Pick a template: Incident Report
 
 - Change questions to match what I am aiming for:
+
+- Changes from last time:
+  - Theme
+  - Added a time
+  - Took away Unsure as an "other"
+  - Updated to ask user when survey is entered to use GPS
