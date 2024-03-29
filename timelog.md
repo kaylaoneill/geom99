@@ -75,13 +75,19 @@
     - https://www.esri.com/training/catalog/5fd024722831fd696d26d53b/arcgis-notebooks-basics/
 
 - Meet with group to plan Web future weeks: March 28- .75 
-- Deploy Parks and Ground Management Solution for beta testing- 
 
-- My future task: look into the solution and create one for Beta testing:
-    - Parks and Ground Management Solution
+- Deploy Parks and Ground Management Solution for beta testing- .75
+    - https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/Parks.md
 
-- Weekly total: 3
+- Weekly total for web: 3.75
+- Weekly total: 4.5
 
+- Next tasks:
+    - look into the solution and create one for Beta testing:
+        - Parks and Ground Management Solution
+    - Meet with group to work on website
+    - Create beta solutions for training
+  
 ## Week 13
 - Weekly total:
 
