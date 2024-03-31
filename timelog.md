@@ -89,6 +89,10 @@
     - Create beta solutions for training
   
 ## Week 13
+
+- Work on making part solution customized to our project for a beta version - 3:45pm start
+    - Work on Surveys on survey 123 connect
+    - 
 - Weekly total:
 
 ## Week 14
