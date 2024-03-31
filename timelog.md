@@ -90,7 +90,7 @@
   
 ## Week 13
 
-- Work on making part solution customized to our project for a beta version - 3:45pm start
+- Work on making part solution customized to our project for a beta version - 3:45pm start, 4:45 break (1 h)
     - Work on Surveys on survey 123 connect
     - 
 - Weekly total:
