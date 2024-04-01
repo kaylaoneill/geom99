@@ -90,8 +90,11 @@
   
 ## Week 13
 
-- Work on making part solution customized to our project for a beta version - 2 h (I honestly spent about 4 hours on this but 2 was waisted as the solution got messed up and I had to restart it)
-    - Work on Surveys on survey 123 connect
+- Work on making part solution customized to our project for a beta version - 2 h (I honestly spent about 4 hours on this but 2 was waisted as the solution got messed up and I had to restart it because the surveys would not let me add questions to it and then integrate that into the solution)
+    - Work on Surveys on Survey 123 connect
+        - First issue: I wanted to add new questions to the surveys and republish them (as support documents said I could) but it did not work as the new questions did not match the rest of the solution
+    - Make sure surveys work
+    - Input data
     - 
 - Weekly total: 2
 
