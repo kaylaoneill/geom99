@@ -74,7 +74,7 @@
 - Completed ArcGIS Notebook training through Esri - 1 h
     - https://www.esri.com/training/catalog/5fd024722831fd696d26d53b/arcgis-notebooks-basics/
 
-- Meet with group to plan Web future weeks: March 28- .75 
+- Meet with the group to plan Web future weeks: March 28- .75 
 
 - Deploy Parks and Ground Management Solution for beta testing- .75
     - https://github.com/kaylaoneill/geom99/blob/main/TechnicalLogs/Parks.md
@@ -85,7 +85,7 @@
 - Next tasks:
     - look into the solution and create one for Beta testing:
         - Parks and Ground Management Solution
-    - Meet with group to work on website
+    - Meet with the group to work on the website
     - Create beta solutions for training
   
 ## Week 13
@@ -96,7 +96,14 @@
     - Make sure surveys work
     - Input data -.25
     - 
-- Weekly total: 2.25
+- Meet with the Group to create/ decide on the template for the website -
+    - Set template
+    - Divide pages
+    - Plan content
+
+
+- Weekly total for web: 2.25
+- Weekly total: 4.25
 
 ## Week 14
 - Weekly total:
