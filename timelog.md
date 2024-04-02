@@ -94,9 +94,9 @@
     - Work on Surveys on Survey 123 connect
         - First issue: I wanted to add new questions to the surveys and republish them (as support documents said I could) but it did not work as the new questions did not match the rest of the solution
     - Make sure surveys work
-    - Input data
+    - Input data -.25
     - 
-- Weekly total: 2
+- Weekly total: 2.25
 
 ## Week 14
 - Weekly total:
