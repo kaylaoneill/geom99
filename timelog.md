@@ -96,14 +96,14 @@
     - Make sure surveys work
     - Input data -.25
     - 
-- Meet with the Group to create/ decide on the template for the website -
+- Meet with the Group to create/ decide on the template for the website - 1 h
     - Set template
     - Divide pages
     - Plan content
 
-
-- Weekly total for web: 2.25
-- Weekly total: 4.25
+- Work on website content and template aspects - 1 h
+- Weekly total for web: 3.25
+- Weekly total: 5.25
 
 ## Week 14
 - Weekly total:
