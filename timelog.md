@@ -96,14 +96,20 @@
     - Make sure surveys work
     - Input data -.25
     - 
+
 - Meet with the Group to create/ decide on the template for the website - 1 h
     - Set template
     - Divide pages
     - Plan content
 
-- Work on website content and template aspects - 1 h
-- Weekly total for web: 3.25
-- Weekly total: 5.25
+- Work on website content and template aspects - 1.5 h
+- https://lowylori.github.io/sawc/agolsolution.html
+    - Work on designing AGOL Solutions page content and images
+    - Work on the footer
+    - Start formatting the page text and images
+
+- Weekly total for web: 3.75
+- Weekly total: 5.75
 
 ## Week 14
 - Weekly total:
