@@ -114,4 +114,6 @@
 - Weekly total: 7
 
 ## Week 14
-- Weekly total:
+- Work on website content and formatting aspects - 1h
+
+- Weekly total: 1
