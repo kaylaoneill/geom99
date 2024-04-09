@@ -116,4 +116,8 @@
 ## Week 14
 - Work on website content and formatting aspects - 1h
 - Worked on formatting the methodology pages, the index page and some CSS. Also worked on editing the steps for methodology. - 1
-- Weekly total: 2
+- Met with the group to discuss our solutions and what needs to be completed still on site. - .5
+
+- 
+- Weekly total: 2.5
+- Weekly total for web: 2
