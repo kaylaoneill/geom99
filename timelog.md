@@ -114,13 +114,22 @@
 - Weekly total: 7
 
 ## Week 14
-- Work on website content and formatting aspects - 1h
-    - - https://lowylori.github.io/sawc/agolsolution.html
-- Worked on formatting the methodology pages, the index page and some CSS. Also worked on editing the steps for AGOL methodology. - 1
+- Work on website - 1h
+    - content and formatting aspects
+    - Adding content to the agol solutions page that included uploading photos, writing out content and formatting the page. 
+    - https://lowylori.github.io/sawc/agolsolution.html
+- Worked on Website: - 1
+    - formatting the methodology pages, the index page and some CSS.
+    - Also worked on editing the steps for AGOL methodology. Adding on the methodology components
     - [https://lowylori.github.io/sawc/agolsolution.html](https://lowylori.github.io/sawc/agolmethod.html)
 - Met with the group to discuss our solutions and what needs to be completed still on site. - .5
 - Worked on "things we tried page", first 2 bullets. - .5
     - https://lowylori.github.io/sawc/thingswetried.html
+- Worked on the website and added details to the separate document to submit: -1h
+    - error checking and fixing using HTML validator.
+    - adding more details to the methodology
+    - fixing grammar mistakes
+    - Adding solutions I worked on to the separate word document 
 
-- Weekly total: 3
-- Weekly total for web: 2.5
+- Weekly total: 4
+- Weekly total for web: 3.5
