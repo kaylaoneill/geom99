@@ -130,6 +130,6 @@
     - adding more details to the methodology
     - fixing grammar mistakes
     - Adding solutions I worked on to the separate Word document 
-
-- Weekly total: 4.5
-- Weekly total for web: 4
+- More edits, creating images, fixing errors that arose: 1 h
+- Weekly total: 5.5
+- Weekly total for web: 5
